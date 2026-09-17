@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.py[cod]
+.env
+database/
+*.db
+*.db-wal
+*.db-shm
+*.sqlite3
+logs/
+.pytest_cache/
+.mypy_cache/
+.claude
